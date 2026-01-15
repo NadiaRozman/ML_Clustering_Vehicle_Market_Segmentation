@@ -113,7 +113,7 @@ Dataset is synthetic/educational; any real-world conclusions should not be drawn
 
 4. **Open and run the notebook**
 
-   * Navigate to `notebooks/Vehicle_Market_Segmentation_Clustering.ipynb`
+   * Navigate to `notebook/Vehicle_Market_Segmentation_Clustering.ipynb`
    * Ensure `vehicle_specifications.csv` is in the correct directory
    * Run all cells to reproduce the analysis
 
