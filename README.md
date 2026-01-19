@@ -156,7 +156,7 @@ Dataset is synthetic/educational; any real-world conclusions should not be drawn
 
 ---
 
-## 📊 Cluster Analysis
+## Cluster Analysis
 
 **Sample Vehicles by Cluster (K-Means, k=2)**
 
@@ -169,7 +169,7 @@ Dataset is synthetic/educational; any real-world conclusions should not be drawn
 
 ---
 
-## 🔍 Hierarchical vs K-Means
+## Hierarchical vs K-Means
 
 | Metric           | Hierarchical (Average) | K-Means |
 | ---------------- | ---------------------- | ------- |
@@ -180,7 +180,7 @@ Dataset is synthetic/educational; any real-world conclusions should not be drawn
 **🏆 Winner:** Hierarchical Clustering (Average Linkage) – higher silhouette score, though K-Means produced more balanced clusters.
 
 ---
-## 🔮 Insights & Business Implications
+## 🔍 Insights & Business Implications
 
 - Vehicles naturally segment into **low-power / compact** vs **high-power / large groups**
 - Hierarchical Clustering captures outliers more clearly
